@@ -1,7 +1,9 @@
 Catálogo de Libros
+
 Este proyecto es un catálogo de libros desarrollado en Java con el framework Spring, que permite consultar y gestionar información de libros y autores. La aplicación se integra con la API Gutendex para buscar libros y utiliza JPA para realizar consultas en la base de datos.
 
 Características
+
 Búsqueda de libros en la API Gutendex.
 Mostrar libros almacenados en la base de datos.
 Mostrar autores de los libros obtenidos en la API.
@@ -10,6 +12,7 @@ Filtrar libros por idioma.
 Top 10 de libros más descargados.
 
 Estructura del Proyecto
+
 Java y Spring Framework: El proyecto está desarrollado en Java, utilizando Spring para la gestión de dependencias, controladores y servicios.
 Integración JSON con Gson: Gson permite la serialización y deserialización de datos JSON obtenidos de la API Gutendex.
 API Gutendex: Se utiliza la API Gutendex para obtener información sobre libros y autores.
