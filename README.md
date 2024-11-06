@@ -16,6 +16,7 @@ API Gutendex: Se utiliza la API Gutendex para obtener información sobre libros 
 Consultas en JPA: JPA facilita la persistencia y recuperación de datos en la base de datos con consultas personalizadas para distintos criterios de búsqueda.
 
 Uso
+
 Ejemplos de Uso de Funcionalidades
 Búsqueda de Libros en la API Gutendex: La aplicación permite buscar libros directamente en la API de Gutendex y mostrar resultados detallados.
 
