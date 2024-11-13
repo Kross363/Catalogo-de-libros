@@ -19,6 +19,8 @@ Este proyecto es un catálogo de libros desarrollado en Java con el framework Sp
 ## Estructura del Proyecto
 * Java y Spring Framework: El proyecto está desarrollado en Java, utilizando Spring para la gestión de dependencias, controladores y servicios.
 
+* Controlador y Servicio con DTOs: La estructura incluye un controlador que interactúa con un servicio (service), utilizando DTOs (Data Transfer Objects) para gestionar la transferencia de datos de manera estructurada y eficiente.
+
 * Integración JSON con Gson: Gson permite la serialización y deserialización de datos JSON obtenidos de la API Gutendex.
 
 * API Gutendex: Se utiliza la API Gutendex para obtener información sobre libros y autores.
